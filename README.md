@@ -1,5 +1,5 @@
 # Prediction-of-music-popularity
-Semestrálny projekt z princípov dátovej vedy v 3 ročníku. Skupina: Galková, Polašková, Bednáriková, Kováčová.
+Semestrálny projekt z princípov dátovej vedy v 3. ročníku. Skupina: Galková, Polašková, Bednáriková, Kováčová.
 
 ## Motivácia
 Cieľom tejto analýzy je pochopiť, aké faktory ovplyvňujú popularitu skladieb a využiť tieto poznatky na vytváranie predikčných modelov, ktoré dokážu presne odhadnúť úspešnosť skladieb.
